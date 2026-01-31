@@ -1,3 +1,5 @@
+⚠️ 注意：這個 repo 只放 Rollup 部署流程，完整合約請看 counter-project-master
+
 📘 Counter Project Master
 專案簡介
 
